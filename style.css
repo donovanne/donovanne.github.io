@@ -1,0 +1,27 @@
+body {
+  background-color: lightcyan;
+  font-family: garamond;
+  background-image: url(http://cdn.lookanimals.com/pictures/motoki-y.sakura.ne.jp/kabegami/252/a.gif);
+  background-repeat: repeat;
+  cursor: crosshair;
+}
+
+
+h1 {
+  color: lightcoral;
+  text-align: center;
+  font-size: 80px;
+  background-color: white;
+  border: 1px dashed lightcoral;
+}
+
+
+ul li {
+  display: inline
+}
+
+.subtext {
+  background-color: white;
+  font-size: 25px;
+  border: 1px dashed lightcoral;
+}
